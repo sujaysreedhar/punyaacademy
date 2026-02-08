@@ -10,6 +10,7 @@ const Academics = () => {
     { icon: <Brain className="w-6 h-6" />, title: 'Mathematics & Logical Thinking' },
     { icon: <Globe className="w-6 h-6" />, title: 'Environmental Studies' },
     { icon: <Lightbulb className="w-6 h-6" />, title: 'Science & Exploration Activities' },
+    { icon: <Target className="w-6 h-6" />, title: 'STEM' },
     { icon: <BookOpen className="w-6 h-6" />, title: 'Reading & Storytelling' },
     { icon: <Palette className="w-6 h-6" />, title: 'Art & Craft' },
     { icon: <Target className="w-6 h-6" />, title: 'General Knowledge' },
@@ -85,10 +86,10 @@ const Academics = () => {
             <div className="space-y-6">
               <h2 className="text-4xl font-bold text-[#4B1F73]">Our Academic Approach</h2>
               <p className="text-gray-700 text-lg leading-relaxed">
-                Our academic structure is designed to ensure children develop strong fundamentals in language, numbers, and general awareness, while also building creativity, critical thinking, and communication skills.
+                As a School of Innovation, our academic approach blends strong foundations in language, numeracy, and general awareness with STEM-based, experiential learning. We focus on nurturing curiosity, creativity, critical thinking, and communication skills that are essential for today's learners.
               </p>
               <p className="text-gray-700 text-lg leading-relaxed">
-                We believe in a balanced approach that combines structured learning with exploratory activities, ensuring that education remains both effective and enjoyable for young learners.
+                Our balanced model integrates structured academics with hands-on exploration and innovation-driven activities, making learning meaningful, engaging, and enjoyable.
               </p>
               <div className="bg-purple-50 border-l-4 border-[#D81B60] p-6 rounded-r-lg">
                 <p className="text-gray-800 font-semibold">
