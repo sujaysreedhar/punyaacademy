@@ -25,14 +25,12 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-3">
-            <div className="w-12 h-12 rounded-full bg-gradient-to-br from-[#4B1F73] to-[#D81B60] flex items-center justify-center">
-              <span className="text-white font-bold text-xl">PA</span>
-            </div>
-            <div className="flex flex-col">
-              <span className="text-[#4B1F73] font-bold text-xl leading-tight">Punya Academy</span>
-              <span className="text-[#D81B60] text-xs font-medium">The School of Innovation</span>
-            </div>
+          <Link to="/" className="flex items-center">
+            <img 
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/qkjf44fl_Screenshot%202026-02-08%20at%205.42.27%E2%80%AFPM.png" 
+              alt="Punya Academy Logo" 
+              className="h-16 w-auto"
+            />
           </Link>
 
           {/* Desktop Navigation */}

@@ -11,14 +11,12 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* About Section */}
           <div>
-            <div className="flex items-center space-x-3 mb-4">
-              <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center">
-                <span className="text-[#4B1F73] font-bold text-lg">PA</span>
-              </div>
-              <div className="flex flex-col">
-                <span className="font-bold text-lg leading-tight">Punya Academy</span>
-                <span className="text-[#D81B60] text-xs font-medium">The School of Innovation</span>
-              </div>
+            <div className="mb-4">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/qkjf44fl_Screenshot%202026-02-08%20at%205.42.27%E2%80%AFPM.png" 
+                alt="Punya Academy Logo" 
+                className="h-20 w-auto"
+              />
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
               A modern learning environment built to nurture curiosity, confidence, and strong academic foundations.
@@ -86,12 +84,12 @@ const Footer = () => {
               <li className="flex items-start space-x-3">
                 <MapPin size={18} className="text-[#D81B60] mt-1 flex-shrink-0" />
                 <span className="text-gray-300 text-sm">
-                  Mangammanapalya, Near HSR Layout, Bangalore, Karnataka
+                  16th Cross, Munireddy Layout Near Lake, Opposite ITI Layout Mangammanapalya Bengaluru – 560068
                 </span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone size={18} className="text-[#D81B60] flex-shrink-0" />
-                <span className="text-gray-300 text-sm">+91 XXXXXXXXXX</span>
+                <span className="text-gray-300 text-sm">+91 8951882860</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail size={18} className="text-[#D81B60] flex-shrink-0" />

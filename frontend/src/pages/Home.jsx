@@ -24,7 +24,7 @@ const Home = () => {
     {
       icon: <Sparkles className="w-8 h-8" />,
       title: 'Interactive Learning',
-      description: 'Activity-based learning that makes education engaging and fun'
+      description: 'STEM-based, activity-driven learning aligned with NEP, making education engaging and fun'
     },
     {
       icon: <Star className="w-8 h-8" />,
@@ -114,7 +114,7 @@ const Home = () => {
                 At Punya Academy, we believe education is not just about marks, but about shaping a child's personality, mindset, and values. Our approach blends structured academics with activity-based learning and strong moral discipline.
               </p>
               <p className="text-gray-700 leading-relaxed text-lg">
-                Located in Mangammanapalya near HSR Layout, Bangalore, we provide a safe and child-friendly campus designed for complete development.
+                Located in Mangammanapalya, conveniently close to HSR Layout, ITI Layout, and Garvebhavipalya, Bengaluru, our campus offers a safe, secure, and child-friendly environment designed to support a child's holistic development.
               </p>
               <Link to="/about">
                 <Button className="bg-[#4B1F73] hover:bg-[#3a1858] text-white">
@@ -181,8 +181,8 @@ const Home = () => {
                 <div className="w-16 h-16 rounded-full bg-gradient-to-br from-purple-100 to-pink-100 flex items-center justify-center">
                   <BookOpen className="w-8 h-8 text-[#D81B60]" />
                 </div>
-                <h3 className="text-2xl font-bold text-[#4B1F73]">Primary Program</h3>
-                <p className="text-gray-600 text-sm font-medium">(Grades 1-5)</p>
+                <h3 className="text-2xl font-bold text-[#4B1F73]">Regular Program</h3>
+                <p className="text-gray-600 text-sm font-medium">(Grade 1-10)</p>
                 <p className="text-gray-700 leading-relaxed">
                   A structured academic program focused on strong subject foundations, communication development, and real-world learning experiences.
                 </p>
