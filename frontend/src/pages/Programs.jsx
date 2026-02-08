@@ -103,8 +103,8 @@ const Programs = () => {
                   <BookOpen className="w-8 h-8 text-[#D81B60]" />
                 </div>
                 <div>
-                  <h2 className="text-4xl font-bold text-[#4B1F73]">Primary Program</h2>
-                  <p className="text-[#D81B60] font-semibold text-lg">Grades 1-5</p>
+                  <h2 className="text-4xl font-bold text-[#4B1F73]">Regular Program</h2>
+                  <p className="text-[#D81B60] font-semibold text-lg">Grade 1-10</p>
                 </div>
               </div>
 
@@ -117,7 +117,7 @@ const Programs = () => {
               <div>
                 <h3 className="text-2xl font-bold text-[#4B1F73] mb-4">Program Highlights</h3>
                 <p className="text-gray-700 leading-relaxed mb-4">
-                  Our primary program focuses on structured learning and strong academic foundations, along with communication and leadership development. We prepare students for higher education while ensuring they develop as confident, well-rounded individuals.
+                  Our regular program focuses on structured learning and strong academic foundations, along with communication and leadership development. We prepare students for higher education while ensuring they develop as confident, well-rounded individuals.
                 </p>
               </div>
 
@@ -137,7 +137,7 @@ const Programs = () => {
 
               <Link to="/admissions">
                 <Button className="bg-[#D81B60] hover:bg-[#c01850] text-white">
-                  Apply for Primary
+                  Apply for Regular Program
                 </Button>
               </Link>
             </div>
@@ -193,8 +193,8 @@ const Programs = () => {
                   <div className="w-20 h-20 rounded-full bg-gradient-to-br from-purple-100 to-pink-100 flex items-center justify-center mx-auto mb-4">
                     <BookOpen className="w-10 h-10 text-[#D81B60]" />
                   </div>
-                  <h3 className="text-2xl font-bold text-[#4B1F73] mb-2">Primary</h3>
-                  <p className="text-gray-600">Ages 6-11 years</p>
+                  <h3 className="text-2xl font-bold text-[#4B1F73] mb-2">Regular Program</h3>
+                  <p className="text-gray-600">Ages 6-16 years</p>
                 </div>
                 <ul className="space-y-3">
                   <li className="flex items-start space-x-2">
