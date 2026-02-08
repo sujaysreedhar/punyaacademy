@@ -157,9 +157,9 @@ const TermsConditions = () => {
               </p>
               <div className="bg-purple-50 p-6 rounded-lg border-l-4 border-[#D81B60]">
                 <p className="text-gray-700 font-semibold">Punya Academy</p>
-                <p className="text-gray-700">Mangammanapalya, Near HSR Layout, Bangalore, Karnataka</p>
+                <p className="text-gray-700">16th Cross, Munireddy Layout Near Lake, Opposite ITI Layout Mangammanapalya Bengaluru – 560068</p>
                 <p className="text-gray-700">Email: info@punyaacademy.com</p>
-                <p className="text-gray-700">Phone: +91 XXXXXXXXXX</p>
+                <p className="text-gray-700">Phone: +91 8951882860</p>
               </div>
             </div>
           </div>
