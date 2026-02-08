@@ -39,10 +39,10 @@ const About = () => {
             <div className="space-y-6">
               <h2 className="text-4xl font-bold text-[#4B1F73]">Who We Are</h2>
               <p className="text-gray-700 text-lg leading-relaxed">
-                Punya Academy is a new-age school in Bangalore created with a mission to provide quality education while nurturing strong values, discipline, and innovative thinking. We believe every child deserves a supportive environment that builds academic excellence and life skills.
+                Punya Academy is a new-age School of Innovation in Bengaluru, committed to quality education rooted in strong values, discipline, and innovative thinking. Our curriculum is designed for today's generation, nurturing curiosity through a blend of traditional values and new-age skills.
               </p>
               <p className="text-gray-700 text-lg leading-relaxed">
-                Our dedicated team of experienced educators works tirelessly to create a learning atmosphere where children feel safe, valued, and motivated to explore their potential. We understand that each child is unique, and our approach is designed to cater to individual learning styles and needs.
+                With a dedicated team of experienced educators, we provide a safe, supportive, and inclusive environment that respects each child's individuality and helps them grow academically and personally.
               </p>
             </div>
           </div>
@@ -85,6 +85,24 @@ const About = () => {
       {/* Our Commitment */}
       <section className="py-16 bg-white">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="text-4xl font-bold text-[#4B1F73] mb-6">Message from the Founder</h2>
+          </div>
+
+          <div className="bg-purple-50 border-l-4 border-[#D81B60] p-8 rounded-r-lg mb-12">
+            <p className="text-gray-800 text-lg leading-relaxed mb-4">
+              At Punya Academy, our vision is to create a school where learning goes beyond textbooks—where curiosity is encouraged, values are lived, and every child is empowered to grow with confidence. We believe education should prepare children not only for academic success, but also for life, leadership, and responsible citizenship.
+            </p>
+            <p className="text-gray-800 text-lg leading-relaxed mb-4">
+              As a School of Innovation, Punya Academy blends strong traditional values with new-age skills, experiential learning, and a future-ready curriculum designed for today's generation. Our focus is on nurturing each child's unique potential in a safe, supportive, and inspiring environment.
+            </p>
+            <p className="text-gray-800 text-lg leading-relaxed mb-6">
+              We look forward to growing together with parents and the community to nurture compassionate, capable, and curious learners ready to build a better tomorrow.
+            </p>
+            <p className="text-[#4B1F73] font-bold text-xl">- Jyothi C</p>
+            <p className="text-gray-600 italic">Founder, Punya Academy</p>
+          </div>
+
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-[#4B1F73] mb-6">Our Commitment</h2>
             <p className="text-gray-700 text-xl leading-relaxed">
