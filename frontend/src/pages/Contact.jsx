@@ -50,12 +50,12 @@ const Contact = () => {
     {
       icon: <MapPin className="w-8 h-8" />,
       title: 'Address',
-      content: 'Mangammanapalya, Near HSR Layout, Bangalore, Karnataka'
+      content: '16th Cross, Munireddy Layout Near Lake, Opposite ITI Layout Mangammanapalya Bengaluru – 560068'
     },
     {
       icon: <Phone className="w-8 h-8" />,
       title: 'Phone',
-      content: '+91 XXXXXXXXXX'
+      content: '+91 8951882860'
     },
     {
       icon: <Mail className="w-8 h-8" />,
@@ -102,107 +102,20 @@ const Contact = () => {
         </div>
       </section>
 
-      {/* Contact Form and Map */}
+      {/* Map Section */}
       <section className="py-16 bg-[#F4F4F6]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid lg:grid-cols-2 gap-12">
-            {/* Contact Form */}
-            <div>
-              <h2 className="text-4xl font-bold text-[#4B1F73] mb-8">Send Us a Message</h2>
-              <Card className="border-2 border-purple-100 shadow-xl">
-                <CardContent className="p-8">
-                  <form onSubmit={handleSubmit} className="space-y-6">
-                    <div className="space-y-2">
-                      <Label htmlFor="name">Name *</Label>
-                      <Input
-                        id="name"
-                        name="name"
-                        value={formData.name}
-                        onChange={handleChange}
-                        required
-                        placeholder="Enter your name"
-                      />
-                    </div>
-
-                    <div className="grid md:grid-cols-2 gap-6">
-                      <div className="space-y-2">
-                        <Label htmlFor="phone">Phone Number *</Label>
-                        <Input
-                          id="phone"
-                          name="phone"
-                          type="tel"
-                          value={formData.phone}
-                          onChange={handleChange}
-                          required
-                          placeholder="+91 XXXXXXXXXX"
-                        />
-                      </div>
-                      <div className="space-y-2">
-                        <Label htmlFor="email">Email Address *</Label>
-                        <Input
-                          id="email"
-                          name="email"
-                          type="email"
-                          value={formData.email}
-                          onChange={handleChange}
-                          required
-                          placeholder="your@email.com"
-                        />
-                      </div>
-                    </div>
-
-                    <div className="space-y-2">
-                      <Label htmlFor="subject">Subject *</Label>
-                      <Input
-                        id="subject"
-                        name="subject"
-                        value={formData.subject}
-                        onChange={handleChange}
-                        required
-                        placeholder="What is this regarding?"
-                      />
-                    </div>
-
-                    <div className="space-y-2">
-                      <Label htmlFor="message">Message *</Label>
-                      <Textarea
-                        id="message"
-                        name="message"
-                        value={formData.message}
-                        onChange={handleChange}
-                        required
-                        placeholder="Tell us more about your inquiry..."
-                        rows={5}
-                      />
-                    </div>
-
-                    <Button
-                      type="submit"
-                      disabled={isSubmitting}
-                      className="w-full bg-[#D81B60] hover:bg-[#c01850] text-white text-lg py-6"
-                    >
-                      {isSubmitting ? 'Sending...' : 'Send Message'}
-                    </Button>
-                  </form>
-                </CardContent>
-              </Card>
-            </div>
-
-            {/* Map */}
-            <div>
-              <h2 className="text-4xl font-bold text-[#4B1F73] mb-8">Find Us</h2>
-              <div className="rounded-2xl overflow-hidden shadow-xl h-[600px]">
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.0844441882564!2d77.64171731482184!3d12.90859799089838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1496cdb0b84d%3A0x8bb9e7d5dbafa1f!2sHSR%20Layout%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1639123456789!5m2!1sen!2sin"
-                  width="100%"
-                  height="100%"
-                  style={{ border: 0 }}
-                  allowFullScreen=""
-                  loading="lazy"
-                  title="Punya Academy Location"
-                ></iframe>
-              </div>
-            </div>
+          <h2 className="text-4xl font-bold text-[#4B1F73] text-center mb-12">Find Us</h2>
+          <div className="rounded-2xl overflow-hidden shadow-xl h-[600px]">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.0844441882564!2d77.64171731482184!3d12.90859799089838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1496cdb0b84d%3A0x8bb9e7d5dbafa1f!2sHSR%20Layout%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1639123456789!5m2!1sen!2sin"
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen=""
+              loading="lazy"
+              title="Punya Academy Location"
+            ></iframe>
           </div>
         </div>
       </section>
@@ -212,7 +125,7 @@ const Contact = () => {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
           <h2 className="text-4xl font-bold">Book a Campus Visit</h2>
           <p className="text-xl">Experience our facilities and meet our educators. Schedule your visit today!</p>
-          <a href="tel:+91XXXXXXXXXX">
+          <a href="tel:+918951882860">
             <Button className="bg-white text-[#D81B60] hover:bg-gray-100 text-lg px-10 py-6">
               Call to Schedule
             </Button>
