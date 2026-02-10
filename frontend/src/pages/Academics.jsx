@@ -78,7 +78,7 @@ const Academics = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://images.pexels.com/photos/8617938/pexels-photo-8617938.jpeg"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/vuwfm8s9_Academics.png"
                 alt="Academic excellence"
                 className="rounded-2xl shadow-xl w-full h-[450px] object-cover"
               />

@@ -88,7 +88,7 @@ const Home = () => {
             </div>
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/8617938/pexels-photo-8617938.jpeg"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/5jni5y93_Homepage%20Banner%20.png"
                 alt="Happy children learning at Punya Academy"
                 className="rounded-2xl shadow-2xl w-full h-[500px] object-cover"
               />
@@ -103,7 +103,7 @@ const Home = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/u47lihj4_Interactive%20Learning.png"
                 alt="Punya Academy Campus"
                 className="rounded-2xl shadow-xl w-full h-[400px] object-cover"
               />

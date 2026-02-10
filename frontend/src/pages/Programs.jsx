@@ -40,7 +40,7 @@ const Programs = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://images.unsplash.com/photo-1610274672835-65a79c852f58"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/8sep4yj5_Art.png"
                 alt="Pre-primary learning activities"
                 className="rounded-2xl shadow-xl w-full h-[500px] object-cover"
               />
