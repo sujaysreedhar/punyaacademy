@@ -246,32 +246,32 @@ const Home = () => {
           </div>
           <div className="grid md:grid-cols-3 gap-6 mb-8">
             <img
-              src="https://images.unsplash.com/photo-1636202339022-7d67f7447e3a"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/0x5b65p2_Class%20Room%201.png"
               alt="Classroom activity"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://images.unsplash.com/photo-1770096679844-57ca92c2b64b"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/r6ax72cb_Classroom%202.png"
               alt="Creative activities"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://images.unsplash.com/photo-1627764940620-90393d0e8c34"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/bwfeowh2_Classroom%203.png"
               alt="Outdoor activities"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://images.unsplash.com/photo-1588072432836-e10032774350"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/rp9hce2l_Event%201.png"
               alt="Focused learning"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://images.pexels.com/photos/8617938/pexels-photo-8617938.jpeg"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/09w3fqyt_Event%204.png"
               alt="Happy students"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://images.unsplash.com/photo-1603958956194-cf9718dba4b1"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/sbtw9j5y_Home%20page%202.png"
               alt="School building"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />

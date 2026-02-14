@@ -103,22 +103,22 @@ const Facilities = () => {
           <h2 className="text-4xl font-bold text-[#4B1F73] text-center mb-12">Our Campus</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <img
-              src="https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/0x5b65p2_Class%20Room%201.png"
               alt="School campus"
               className="rounded-2xl shadow-xl w-full h-80 object-cover"
             />
             <img
-              src="https://images.unsplash.com/photo-1603958956194-cf9718dba4b1"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/r6ax72cb_Classroom%202.png"
               alt="School building"
               className="rounded-2xl shadow-xl w-full h-80 object-cover"
             />
             <img
-              src="https://images.pexels.com/photos/8617938/pexels-photo-8617938.jpeg"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/bwfeowh2_Classroom%203.png"
               alt="Classroom"
               className="rounded-2xl shadow-xl w-full h-80 object-cover"
             />
             <img
-              src="https://images.unsplash.com/photo-1636202339022-7d67f7447e3a"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/rp9hce2l_Event%201.png"
               alt="Learning environment"
               className="rounded-2xl shadow-xl w-full h-80 object-cover"
             />

@@ -31,73 +31,73 @@ export const galleryImages = [
   {
     id: 1,
     category: 'Classrooms',
-    url: 'https://images.unsplash.com/photo-1636202339022-7d67f7447e3a',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/0x5b65p2_Class%20Room%201.png',
     alt: 'Modern classroom with engaged students'
   },
   {
     id: 2,
     category: 'Activities',
-    url: 'https://images.unsplash.com/photo-1770096679844-57ca92c2b64b',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/uax3zzqo_Activities%201.png',
     alt: 'Children engaged in creative art activities'
   },
   {
     id: 3,
     category: 'Campus',
-    url: 'https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/sbtw9j5y_Home%20page%202.png',
     alt: 'School campus with modern infrastructure'
   },
   {
     id: 4,
     category: 'Activities',
-    url: 'https://images.unsplash.com/photo-1588072432836-e10032774350',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/amhwuh5v_Activities%202.png',
     alt: 'Student focused on learning activities'
   },
   {
     id: 5,
     category: 'Events',
-    url: 'https://images.unsplash.com/photo-1627764940620-90393d0e8c34',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/rp9hce2l_Event%201.png',
     alt: 'Group outdoor activities and celebrations'
   },
   {
     id: 6,
     category: 'Classrooms',
-    url: 'https://images.pexels.com/photos/8617938/pexels-photo-8617938.jpeg',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/r6ax72cb_Classroom%202.png',
     alt: 'Vibrant classroom with engaged children'
   },
   {
     id: 7,
     category: 'Campus',
-    url: 'https://images.unsplash.com/photo-1603958956194-cf9718dba4b1',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/j9bpiunf_Home%20Page%201.png',
     alt: 'Modern school building exterior'
   },
   {
     id: 8,
     category: 'Activities',
-    url: 'https://images.unsplash.com/photo-1610274672835-65a79c852f58',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/z7u0buis_Activities%205.png',
     alt: 'Art and creative learning activities'
   },
   {
     id: 9,
     category: 'Events',
-    url: 'https://images.pexels.com/photos/35573003/pexels-photo-35573003.jpeg',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/09w3fqyt_Event%204.png',
     alt: 'School celebrations and events'
   },
   {
     id: 10,
     category: 'Classrooms',
-    url: 'https://images.unsplash.com/photo-1759143101324-d375443f1955',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/bwfeowh2_Classroom%203.png',
     alt: 'Happy children in school uniforms'
   },
   {
     id: 11,
     category: 'Activities',
-    url: 'https://images.unsplash.com/photo-1637195141196-242c0079503b',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/izcz4xn5_What%20Makes%20Us%20Different%20.png',
     alt: 'Children engaged in writing activities'
   },
   {
     id: 12,
     category: 'Campus',
-    url: 'https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/8owqs8kb_About%20Us.png',
     alt: 'Safe and modern school campus'
   }
 ];
