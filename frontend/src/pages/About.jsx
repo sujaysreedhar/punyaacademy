@@ -73,7 +73,7 @@ const About = () => {
             </div>
             <div>
               <img
-                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/izcz4xn5_What%20Makes%20Us%20Different%20.png"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/vzi0cwdv_What%20Makes%20Us%20Different.png"
                 alt="School campus"
                 className="rounded-2xl shadow-xl w-full h-[450px] object-cover"
               />
