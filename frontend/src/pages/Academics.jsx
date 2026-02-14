@@ -179,7 +179,7 @@ const Academics = () => {
             </div>
             <div>
               <img
-                src="https://images.unsplash.com/photo-1637195141196-242c0079503b"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/z7u0buis_Activities%205.png"
                 alt="Learning outcomes"
                 className="rounded-2xl shadow-xl w-full h-[500px] object-cover"
               />

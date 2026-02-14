@@ -43,7 +43,7 @@ const VisionMission = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="order-2 lg:order-1">
               <img
-                src="https://images.unsplash.com/photo-1603958956194-cf9718dba4b1"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/uax3zzqo_Activities%201.png"
                 alt="Vision for future"
                 className="rounded-2xl shadow-xl w-full h-[450px] object-cover"
               />
@@ -97,7 +97,7 @@ const VisionMission = () => {
             </div>
             <div>
               <img
-                src="https://images.unsplash.com/photo-1770096679844-57ca92c2b64b"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/amhwuh5v_Activities%202.png"
                 alt="Mission in action"
                 className="rounded-2xl shadow-xl w-full h-[500px] object-cover"
               />

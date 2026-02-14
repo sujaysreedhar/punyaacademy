@@ -157,7 +157,7 @@ const Admissions = () => {
             </div>
             <div>
               <img
-                src="https://images.unsplash.com/photo-1588072432836-e10032774350"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/6ab6akwv_Documents%20Required.png"
                 alt="Student learning"
                 className="rounded-2xl shadow-xl w-full h-full object-cover"
               />
