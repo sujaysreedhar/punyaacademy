@@ -271,8 +271,8 @@ const Home = () => {
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/sbtw9j5y_Home%20page%202.png"
-              alt="School building"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/0x5b65p2_Class%20Room%201.png"
+              alt="School classroom"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
           </div>
