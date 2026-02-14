@@ -40,7 +40,7 @@ const Programs = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/8sep4yj5_Art.png"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/fzayr521_Pre-Primary%20Program.png"
                 alt="Pre-primary learning activities"
                 className="rounded-2xl shadow-xl w-full h-[500px] object-cover"
               />
@@ -143,7 +143,7 @@ const Programs = () => {
             </div>
             <div className="order-1 lg:order-2">
               <img
-                src="https://images.unsplash.com/photo-1636202339022-7d67f7447e3a"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/80tqwqcs_Regular%20Program.png"
                 alt="Primary education"
                 className="rounded-2xl shadow-xl w-full h-[500px] object-cover"
               />

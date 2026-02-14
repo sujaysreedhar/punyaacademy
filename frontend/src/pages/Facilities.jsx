@@ -132,7 +132,7 @@ const Facilities = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://images.unsplash.com/photo-1627764940620-90393d0e8c34"
+                src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/mojja9ui_Safety%20%26%20Hygiene.png"
                 alt="Safety measures"
                 className="rounded-2xl shadow-xl w-full h-[450px] object-cover"
               />
