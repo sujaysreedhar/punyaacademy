@@ -103,22 +103,22 @@ const Facilities = () => {
           <h2 className="text-4xl font-bold text-[#4B1F73] text-center mb-12">Our Campus</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/0x5b65p2_Class%20Room%201.png"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/zkq7bf71_Our%20Campus%201.png"
               alt="School campus"
               className="rounded-2xl shadow-xl w-full h-80 object-cover"
             />
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/r6ax72cb_Classroom%202.png"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/ycbux3yk_Our%20Campus%202.png"
               alt="School building"
               className="rounded-2xl shadow-xl w-full h-80 object-cover"
             />
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/bwfeowh2_Classroom%203.png"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/qeoi33dy_Our%20Campus%204.png"
               alt="Classroom"
               className="rounded-2xl shadow-xl w-full h-80 object-cover"
             />
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/rp9hce2l_Event%201.png"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/gemribfc_Our%20Campus%207.png"
               alt="Learning environment"
               className="rounded-2xl shadow-xl w-full h-80 object-cover"
             />

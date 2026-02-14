@@ -246,27 +246,27 @@ const Home = () => {
           </div>
           <div className="grid md:grid-cols-3 gap-6 mb-8">
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/0x5b65p2_Class%20Room%201.png"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/zkq7bf71_Our%20Campus%201.png"
               alt="Classroom activity"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/r6ax72cb_Classroom%202.png"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/ycbux3yk_Our%20Campus%202.png"
               alt="Creative activities"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/bwfeowh2_Classroom%203.png"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/qeoi33dy_Our%20Campus%204.png"
               alt="Outdoor activities"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/rp9hce2l_Event%201.png"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/gemribfc_Our%20Campus%207.png"
               alt="Focused learning"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />
             <img
-              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/09w3fqyt_Event%204.png"
+              src="https://customer-assets.emergentagent.com/job_innovation-school/artifacts/nk3f0pq2_EVent%205.png"
               alt="Happy students"
               className="rounded-lg shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform"
             />

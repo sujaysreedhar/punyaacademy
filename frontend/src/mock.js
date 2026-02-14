@@ -43,7 +43,7 @@ export const galleryImages = [
   {
     id: 3,
     category: 'Campus',
-    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/sbtw9j5y_Home%20page%202.png',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/zkq7bf71_Our%20Campus%201.png',
     alt: 'School campus with modern infrastructure'
   },
   {
@@ -67,7 +67,7 @@ export const galleryImages = [
   {
     id: 7,
     category: 'Campus',
-    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/j9bpiunf_Home%20Page%201.png',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/ycbux3yk_Our%20Campus%202.png',
     alt: 'Modern school building exterior'
   },
   {
@@ -90,14 +90,14 @@ export const galleryImages = [
   },
   {
     id: 11,
-    category: 'Activities',
-    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/izcz4xn5_What%20Makes%20Us%20Different%20.png',
-    alt: 'Children engaged in writing activities'
+    category: 'Events',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/nk3f0pq2_EVent%205.png',
+    alt: 'School events and celebrations'
   },
   {
     id: 12,
     category: 'Campus',
-    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/8owqs8kb_About%20Us.png',
+    url: 'https://customer-assets.emergentagent.com/job_innovation-school/artifacts/qeoi33dy_Our%20Campus%204.png',
     alt: 'Safe and modern school campus'
   }
 ];
